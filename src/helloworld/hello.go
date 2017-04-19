@@ -9,6 +9,5 @@ import (
 func main() {
 	fmt.Println("Hello, Go!")
 	fmt.Println(strings.ToUpper("This upper case string"))
-	fmt.Println(stringutil.Reverse("!oG ,olleH"))
-
+	fmt.Println(stringutil.Reverse("!oG ,olleH")
 }
